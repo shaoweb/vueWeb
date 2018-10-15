@@ -3,10 +3,10 @@
 前段时间逛论坛，无意间看到了一个大神用vue写的音乐播放器，于是就手热自己写了一个
 
 > 关于我，欢迎关注
-  作者：潇禹
+  作者：殇璃
 
 ## 源代码
-源代码地址：[GitHub](https://github.com/921227965/vue-musicApp)  
+源代码地址：[GitHub](https://github.com/shaoweb/vueWeb)  
 欢迎大家star和follow
 
 
@@ -98,7 +98,3 @@ npm run build
 ### 存在的Bug：
 - [ ]   进度条拖拽后歌词位置不能及时定位
 - [ ]   点开歌曲详情页歌词位置不执行定位
-
----
-#### 欢迎技术交流，xiaoyuliu.webdeveloper@gmail.com
-#### 微信：13216210763（欢迎“骚扰”）
